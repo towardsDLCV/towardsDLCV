@@ -18,9 +18,9 @@ I am a Ph.D. student at Korea University 🇰🇷
  
 <div> 
   <a href = "mailto:ekqqqus5555@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ch-p-079862380/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ch-p-079862380" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://scholar.google.com/citations?user=5C9TeqgAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&logo=google-scholar" target="_blank"></a> 
 </div>
-
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=towardsDLCV&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towardsDLCV&layout=compact&theme=buefy&hide_border=true" /></a> |
